@@ -2,6 +2,8 @@ import altair as alt
 import numpy as np
 import pandas as pd
 import streamlit as st
+from sklearn.ensemble import RandomForestClassifier  # Added import for scikit-learn
+
 
 """
 # Welcome to Streamlit!
